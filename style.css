@@ -1,0 +1,28 @@
+            * {
+                background-image: url(../todo/pexels-sanaan-mazhar-3075993.jpg);
+                margin: 0;
+                box-sizing: border-box;
+            }
+            
+            .footer-container {
+                background-color: rgb(15, 53, 110);
+                padding: 1rem 0 1rem 0;
+                margin-top: 280px;
+            }
+            
+            .footer {
+                width: 80%;
+                height: 20%;
+                display: flex;
+                color: aliceblue;
+                justify-content: center;
+                flex-wrap: wrap;
+                flex-direction: row;
+                margin-left: 10;
+            }
+            
+            .footer-heading {
+                display: flex;
+                flex-direction: column;
+                margin-right: 20rem;
+            }
